@@ -19,6 +19,7 @@ const NavStyles = styled.nav`
     padding: 0;
     text-align: center;
     align-items: center;
+    margin-top: -6rem;
   }
 
   li {
